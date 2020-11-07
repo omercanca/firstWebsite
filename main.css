@@ -1,0 +1,51 @@
+.header {
+    padding: 60px;
+    margin-top:-20;
+    margin-left: 1400;
+    background:transparent;
+    color: white;
+    font-size: 10px;
+    font-family: monospace;
+  }
+  .header2{
+    padding: 60px;
+    margin-top:-170;
+    margin-left: 1500;
+    background:transparent;
+    color: white;
+    font-size: 10px;
+    font-family: monospace;
+  }
+  .name{
+    padding: 60px;
+    margin-left: 790;
+    margin-top: 275;
+    background:transparent;
+    color: white;
+    font-size: 40px;
+    font-family: monospace;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .school{
+    padding: 60px;
+    margin-left: 680;
+    margin-top: -105;
+    background:transparent;
+    color: white;
+    font-size: 25px;
+    font-family: monospace;
+  }
+  .major{
+    padding: 60px;
+    margin-left: 800;
+    margin-top: -100;
+    background:transparent;
+    color: white;
+    font-size: 25px;
+    font-family: monospace;
+  }
